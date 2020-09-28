@@ -1,5 +1,5 @@
 # Merge Reminders for Slack
-A basic Lambda function to read the GitLab API to find open merge requests and announce for the #zsp-frontend Slack channel.
+A basic Lambda function to read the GitLab API to find open merge requests and announce to a Slack channel.
 
 ## Setup
 
